@@ -1,0 +1,11 @@
+.item {
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid #ccc;
+  color: #fff;
+}
+
+.label {
+  margin-bottom: 7px;
+}
